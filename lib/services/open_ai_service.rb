@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'openai'
 require 'dotenv'
 Dotenv.load
