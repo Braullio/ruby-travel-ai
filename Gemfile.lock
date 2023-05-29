@@ -84,6 +84,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  byebug (~> 11.1)
   dotenv-rails
   ruby-openai
   sinatra
